@@ -26,8 +26,8 @@ Feel free to connect with me through GitHub or LinkedIn.
 
 ## Fun fact ⚡
 
-I'm surprisingly good at breaking code I just finished writing.
+I'm surprisingly good at breaking code I just finished writing.<br>
 
-I don't like Coffee or Tea.
+I don't like Coffee or Tea.<br>
 
-Have a habit of Laughing in Serious situations.
+Have a habit of Laughing in Serious situations.<br>
