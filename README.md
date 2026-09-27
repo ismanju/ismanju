@@ -1,24 +1,28 @@
 # Hi there, I'm Manju 👋
 
-I'm a Computer Science student focused on becoming a Software Engineer with a growing intrest in building secure and reliable software.
-I enjoy learning by building projects, solving problems, and understanding how things work under the hood.
+I'm a Computer Science student focused on building my career in Data Analytics.
+I enjoy working with data, solving problems, and turning raw information into
+useful insights. I learn best by building projects and working with real datasets.
 
 ## Currently
 
-- Building projects and strengthening my problem-solving skills.
-- Practicing Data Structures and Algorithms.
-- Improving my Python skills.
-- Exploring software engineering and backend development.
+- Building SQL and Data Analytics projects.
+- Learning SQL Server and Data Warehousing.
+- Improving my Excel and data analysis skills.
+- Exploring data visualization and business intelligence.
+- Strengthening my problem-solving and analytical skills.
 
 ## Looking to
 
-- Collaborate on interesting software projects.
-- Contribute to open-source projects.
-- Learn from other developers and build things together.
+- Build practical Data Analytics projects.
+- Learn from real-world datasets and business problems.
+- Collaborate on interesting data projects.
+- Continue developing my skills in SQL, Excel, Python and Power BI.
 
 ## Ask me about
 
-Python, DSA, Cybersecurity projects, or my journey in tech.
+SQL, Data Analytics, Data Warehousing, Python, Excel, 
+or my journey into tech, analytics or Cybersecurity!
 
 ## Connect
 
@@ -26,8 +30,6 @@ Feel free to connect with me through GitHub or LinkedIn.
 
 ## Fun fact ⚡
 
-I'm surprisingly good at breaking code I just finished writing.<br>
-
-I don't like Coffee or Tea.<br>
-
-Have a habit of Laughing in Serious situations.<br>
+I'm surprisingly good at breaking code I just finished writing.🤦‍♀️<br>
+I don't Like Coffee or Tea ☕<br>
+I laugh at Worst possible Situations 😪 ! 
