@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Manju 👋
 
 Computer Science Engineering Graduate  
 AI/ML Enthusiast | 💻 Aspiring Software Developer
