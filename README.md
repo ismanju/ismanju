@@ -1,35 +1,58 @@
-# Hi there, I'm Manju 👋
+# Hi, I'm [Your Name] 👋
 
-I'm a Computer Science student focused on building my career in Data Analytics.
-I enjoy working with data, solving problems, and turning raw information into
-useful insights. I learn best by building projects and working with real datasets.
+Computer Science Engineering Graduate  
+AI/ML Enthusiast | 💻 Aspiring Software Developer
 
-## Currently
+## About Me
 
-- Building SQL and Data Analytics projects.
-- Learning SQL Server and Data Warehousing.
-- Improving my Excel and data analysis skills.
-- Exploring data visualization and business intelligence.
-- Strengthening my problem-solving and analytical skills.
+I'm a CSE graduate exploring the intersection of Artificial Intelligence, Machine Learning, and software development.
 
-## Looking to
+I'm currently learning by building practical projects, understanding system design, and improving my skills one step at a time.
 
-- Build practical Data Analytics projects.
-- Learn from real-world datasets and business problems.
-- Collaborate on interesting data projects.
-- Continue developing my skills in SQL, Excel, Python and Power BI.
+## Currently Learning
 
-## Ask me about
+- **Programming:** Python, JavaScript
+- **Frontend:** React
+- **Backend:** FastAPI, REST APIs
+- **Database:** PostgreSQL
+- **AI/ML:** Large Language Models (LLMs), Retrieval-Augmented Generation (RAG)
+- **Tools & Deployment:** Git, GitHub, Docker, Linux
 
-SQL, Data Analytics, Data Warehousing, Python, Excel, 
-or my journey into tech, analytics or Cybersecurity!
+## What I'm Exploring
+
+- Building applications powered by AI
+- Using RAG to connect AI systems with approved information
+- Designing APIs and database-backed applications
+- Implementing validation, versioning, and human-review workflows
+- Learning how to deploy applications reliably
+
+## Projects
+
+### AI-Assisted Content Workflow
+
+Exploring how to build an application that uses approved information to generate structured content, validate outputs, track versions, and support human review.
+
+**Technologies I'm exploring:** Python, FastAPI, React, PostgreSQL, Docker, and RAG.
+
+*Currently learning and developing.*
+
+## My Goals
+
+- Strengthen my JavaScript and Python fundamentals.
+- Understand AI/ML concepts through hands-on implementation.
+- Build reliable backend services and full-stack applications.
+- Learn system design, testing, and deployment.
+- Keep experimenting, learning, and improving.
+---
+
+Thanks for stopping by! 🌱
 
 ## Connect
 
-Feel free to connect with me through GitHub or LinkedIn.
+Feel free to connect with me through GitHub.
 
 ## Fun fact ⚡
 
 I'm surprisingly good at breaking code I just finished writing.🤦‍♀️<br>
-I don't Like Coffee or Tea ☕<br>
+I Like Coffee and Tea ☕<br>
 I laugh at Worst possible Situations 😪 ! 
