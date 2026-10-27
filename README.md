@@ -1,7 +1,7 @@
 # Hi, I'm Manju 👋
 
 Computer Science Engineering Graduate  
-AI/ML Enthusiast | 💻 Aspiring Software Developer
+AI/ML Enthusiast | Aspiring Software Developer
 
 ## About Me
 
